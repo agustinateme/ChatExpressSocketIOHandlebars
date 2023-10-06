@@ -1,5 +1,3 @@
-# ChatExpressSocketIOHandlebars
-
 # Chat Express con Socket.io y Handlebars
 
 Este repositorio contiene una aplicación de chat en tiempo real desarrollada con Node.js, Express, Socket.io y Handlebars. Esta aplicación te permite crear y unirte a salas de chat y chatear en tiempo real con otros usuarios.
